@@ -18,6 +18,7 @@
 - 🤯  Fun fact **I can code for 8+ hrs**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
 - 🙋‍♂️ Hope you have a great day! :D
+
 Connect with me:
 <p align="left">
 <a href="https://medium.com/@mrcoderpeme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrcoderpeme" height="30" width="40" /></a>
