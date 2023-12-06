@@ -56,9 +56,10 @@
             animation: none;
           }
         }
-   <div class="container">
-        <h1 align="center">Hi, I'm Praise-him Z. <div class="hi">👋</div></h1>
-        
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Praise-Him Z. <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
