@@ -15,7 +15,7 @@
 * playing soccer ⚽
 * biking 🚵‍♂️ 🚲
 * Hiking 🥾
-- 🤯  Fun fact **I can code for 8+ hrs**
+- 🤯  Fun fact **I am a jack of all trades and master of none 😁**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
 - 🙋‍♂️ Hope you have a great day! :D
 
@@ -45,5 +45,5 @@ ___________
 If you have any questions or better advice, contact me on the [forum](https://forum.codewizardshq.com/u/praisehimz/summary) or [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=mrcoderpeme@gmail.com)
 
 ## PS: I have hosted my websites on other platforms such as:
-* [CWHQ](https://praisehimz.codewizardshq.com)
-* [Infinity Free](https://praisehimz.000.pe)
+* [Carrd](https://praisehimz.codewizardshq.com)
+* [Infintyfree (make sure to press the continue to site its not secure yet)](https://praisehimz.000.pe)
