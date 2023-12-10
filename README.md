@@ -44,5 +44,5 @@ ___________
 If you have any questions or better advice, contact me on the [forum](https://forum.codewizardshq.com/u/praisehimz/summary) or [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=mrcoderpeme@gmail.com)
 
 ## PS: I have hosted my websites on other platforms such as:
-* [Carrd](https://praisehimz.codewizardshq.com)
-* [Infintyfree (make sure to press the continue to site its not secure yet)](https://praisehimz.000.pe)
+* [Carrd](https://peme969.carrd.co)
+* [Github Pages](https://peme969.is-a.dev)
