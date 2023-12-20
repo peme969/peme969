@@ -36,7 +36,7 @@ Connect with me:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peme969&show_icons=true&locale=en&layout=compact" alt="peme969" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peme969&show_icons=true&locale=en" alt="peme969" /></p>
-
+[![peme969's GitHub | Stats](https://stats.quine.sh/peme969/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=peme969)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peme969&" alt="peme969" /></p>
 
 ___________
