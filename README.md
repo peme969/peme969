@@ -41,6 +41,11 @@ Connect with me:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peme969&" alt="peme969" /></p>
 
+## PS: I have hosted my websites on other platforms such as:
+* [Carrd](https://peme969.carrd.co)
+* [Infinity Free](https://praisehimz.000.pe)
+* [Glitch](https://peme969.glitch.me)
+
 ___________
 
 If you have any questions or better advice, contact me on the [forum](https://forum.codewizardshq.com/u/praisehimz/summary) or [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=mrcoderpeme@gmail.com)
