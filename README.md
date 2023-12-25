@@ -24,7 +24,7 @@
 ## Connect with me:
 
 
-<a target="_blank" href="https://github.com/peme969">![Github](https://github.com/peme969/peme969/assets/136040410/0fc300f7-ab23-4376-85b4-c2e1961d5aa5)</a>
+<a target="_blank" href="https://github.com/peme969"><img src="https://github.com/peme969/peme969/assets/136040410/0fc300f7-ab23-4376-85b4-c2e1961d5aa5" width="50" height="50"/></a>
 <a href="https://www.codewizardshq.com/student-spotlight-praise-him" target="_blank">
 <img src="http://praisehimz.codewizardshq.com/Firstwebsite/images/cwhq.png" id="cwhq" alt="Code Wizards HQ" width="50" height="50"/></a>
 <a href="https://replit.com/@muskbot" target="_blank">
