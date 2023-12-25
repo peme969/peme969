@@ -6,20 +6,22 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969" /> </p>
 
+## Some fun facts about me ✨
+
 - 👋 I am a 12-year-old christian boy ✝ that loves to code!
 - ⚡ Some things I enjoy during my free time are: 
-* playing the piano 🎹
-* singing 🎶
-* tech and coding (duh) 👨‍💻
-* reading (alot!) 📚 📖 
-* playing soccer ⚽
-* biking 🚵‍♂️ 🚲
-* Hiking 🥾
-- 🤯  Fun fact **I am a jack of all trades and master of none 😁**
+- playing the piano 🎹
+- singing 🎶
+- tech and coding (duh) 👨‍💻
+- reading (alot!) 📚 📖 
+- playing soccer ⚽
+- biking 🚵‍♂️ 🚲
+- Hiking 🥾
+- 🤯 **I am a jack of all trades and master of none 😁**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
 - 🙋‍♂️ Hope you have a great day! :D
 
-Connect with me:
+## Connect with me:
 <p>
 <a href="https://medium.com/@mrcoderpeme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrcoderpeme" height="30" width="40" /></a>
 </p>
