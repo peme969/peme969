@@ -26,8 +26,6 @@
 
 
 <a target="_blank" href="https://github.com/peme969"><img src="https://github.com/peme969/peme969/assets/136040410/0fc300f7-ab23-4376-85b4-c2e1961d5aa5" width="50" height="50"/></a>
-<a href="https://www.codewizardshq.com/student-spotlight-praise-him" target="_blank">
-<img src="http://praisehimz.codewizardshq.com/Firstwebsite/images/cwhq.png" id="cwhq" alt="Code Wizards HQ" width="50" height="50"/></a>
 <a href="https://replit.com/@muskbot" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="50" height="50" id="replit" alt="Replit" />
 </a>
@@ -44,9 +42,9 @@ I am pretty much fluent in some and still learning others 😁
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peme969&show_icons=true&locale=en&layout=compact" alt="peme969" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peme969&show_icons=true&locale=en" alt="peme969" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" /></p>
 
 [![peme969's GitHub | Stats](https://stats.quine.sh/peme969/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=peme969)
 
