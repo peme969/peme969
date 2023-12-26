@@ -39,7 +39,7 @@ I am pretty much fluent in some and still learning others 😁
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" /></p>
@@ -59,6 +59,6 @@ If you have any questions or better advice, please [email me](https://mail.googl
 ## PS: I have hosted my websites on other platforms such as:
 * [Carrd](https://peme969.carrd.co)
 * [Infinity Free](https://praisehimz.000.pe) 
-*for infinity free, its not going to be secure so press continue to site when the message pops up!*
+*its not going to be secure so press continue to site when the message pops up!*
 * [Glitch](https://peme969.glitch.me)
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="peme969" />
