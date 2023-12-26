@@ -19,7 +19,8 @@
 - Hiking 🥾
 - 🤯 **I am a jack of all trades and master of none 😁**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
-- 🙋‍♂️ Hope you have a great day! :D
+
+ 🙋‍♂️ Hope you have a great day! :D
 
 ## Connect with me:
 
