@@ -42,9 +42,9 @@ I am pretty much fluent in some and still learning others 😁
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" /></p>
 
 [![peme969's GitHub | Stats](https://stats.quine.sh/peme969/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=peme969)
 
