@@ -4,7 +4,7 @@
 <hr>
 <h3 align="center">A passionate 12 year-old coder from the USA 🇺🇸</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/></p>
 
 ## Some fun facts about me ✨
 
