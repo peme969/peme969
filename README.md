@@ -58,7 +58,5 @@ If you have any questions or better advice, please [email me](https://mail.googl
 
 ## PS: I have hosted my websites on other platforms such as:
 * [Carrd](https://peme969.carrd.co)
-* [Infinity Free](https://praisehimz.000.pe) 
-*its not going to be secure so press continue to site when the message pops up!*
 * [Glitch](https://peme969.glitch.me)
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="peme969" />
