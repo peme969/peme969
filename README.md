@@ -8,7 +8,7 @@
 
 ## Some fun facts about me ✨
 
-- 👋 I am a 12-year-old christian boy ✝ that loves to code!
+- 👋 I am a 12-year-old christian ✝ that loves to code!
 - ⚡ Some things I enjoy during my free time are: 
 - playing the piano 🎹
 - singing 🎶
