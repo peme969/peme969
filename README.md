@@ -7,8 +7,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/></p>
 
 ## Some fun facts about me ✨
-
-- 👋 I am a 12-year-old christian ✝ that loves to code!
 - ⚡ Some things I enjoy during my free time are: 
 - playing the piano 🎹
 - singing 🎶
