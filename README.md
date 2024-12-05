@@ -7,14 +7,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/></p>
 
 ## Some fun facts about me ✨
-- ⚡ Some things I enjoy during my free time are: 
-- playing the piano 🎹
-- singing 🎶
-- tech and coding (duh) 👨‍💻
-- reading (alot!) 📚 📖 
-- playing soccer ⚽
-- biking 🚵‍♂️ 🚲
-- Hiking 🥾
+- I love to bike, hike, and fly FPV drones!
+- I play the piano :)
 - 🤯 **I am a jack of all trades and master of none 😁**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
 
