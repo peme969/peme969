@@ -46,8 +46,4 @@ I am pretty much fluent in some and still learning others 😁
 ___________
 
 If you have any questions or better advice, please [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=mrcoderpeme@gmail.com)
-
-## PS: I have hosted my websites on other platforms such as:
-* [Carrd](https://peme969.carrd.co)
-* [Glitch](https://peme969.glitch.me)
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="peme969" />
