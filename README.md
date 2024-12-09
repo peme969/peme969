@@ -13,6 +13,7 @@
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
 
  🙋‍♂️ Hope you have a great day! :D
+## Featured Projects:
 
 ## Connect with me:
 
@@ -46,4 +47,5 @@ I am pretty much fluent in some and still learning others 😁
 ___________
 
 If you have any questions or better advice, please [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=mrcoderpeme@gmail.com)
+
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="peme969" />
