@@ -33,7 +33,7 @@ I am pretty much fluent in some and still learning others 😁
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" /></p>
