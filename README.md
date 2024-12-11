@@ -34,7 +34,7 @@ I am pretty much fluent in some and still learning others 😁
 
 ![e](https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/graph.svg)
 
-<div style='display:inline-block;'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" style='width:230px;'/>
+<div style='display:inline-block;'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" style='height:230px;'/>
 <img src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" style='height: 230px;margin-left: 10px;' alt="peme969" />
 <br>
 <div style='display:flex;'>
