@@ -31,6 +31,7 @@ I am pretty much fluent in some and still learning others 😁
 <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' style='width:64px;height:64px;'/>
 <img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' style='width:64px;height:64px;'/>
 </div>
+
 ![Snake animation](https://raw.githubusercontent.com/peme969/peme969/output/github-contribution-grid-snake-dark.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" /></p>
 
