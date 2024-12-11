@@ -32,7 +32,7 @@ I am pretty much fluent in some and still learning others 😁
 <img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' style='width:64px;height:64px;'/>
 </div>
 
-![e](https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/graph.svg)
+![e](https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/github_contributions_enhanced.svg)
 
 <div style='display:inline-block;'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" style='height:230px;'/>
 <img src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" style='height: 230px;margin-left: 10px;' alt="peme969" />
