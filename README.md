@@ -37,7 +37,7 @@ I am pretty much fluent in some and still learning others 😁
 <div style='display:inline-block;'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" alt="peme969" />
 
-[![peme969's GitHub | Stats](https://stats.quine.sh/peme969/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=peme969)<img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:220px;height:220px;align:right;'/>
+<img src='https://stats.quine.sh/peme969/github?theme=dark'/><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:260px;height:260px;align:right;'/>
 </div>
 
 
