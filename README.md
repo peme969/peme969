@@ -40,7 +40,8 @@ I am pretty much fluent in some and still learning others 😁
     max-width: 60%;' alt="peme969" />
   <br>
 <div style='display:flex;'>
-<img src='https://stats.quine.sh/peme969/github?theme=dark'/><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:260px;height:260px;'/></div>
+<img src='https://stats.quine.sh/peme969/github?theme=dark'/><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:300px;height:300px; 
+    margin-left: 100px;'/></div>
 </div>
 
 
