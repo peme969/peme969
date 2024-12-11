@@ -38,7 +38,7 @@ I am pretty much fluent in some and still learning others 😁
 <img src="https://github-readme-stats.vercel.app/api?username=peme969&theme=blue-green" style='height: 230px;margin-left: 10px;' alt="peme969" />
 <br>
 <div style='display:flex;'>
-<img src='https://stats.quine.sh/peme969/github?theme=dark'/><img align='right'src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:300px;height:300px; 
+<img src='https://stats.quine.sh/peme969/github?theme=dark'/><img align='right'src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:330px;height:330px; 
     margin-left: 100px;'/></div>
 </div>
 
