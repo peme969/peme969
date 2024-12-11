@@ -33,7 +33,7 @@ I am pretty much fluent in some and still learning others 😁
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/peme969/peme969/output/github-contribution-grid-snake-dark.svg)
-![e](https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/github_contributions_enhanced.svg)
+![e](https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/graph.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" /></p>
 
