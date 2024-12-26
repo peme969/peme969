@@ -194,11 +194,12 @@ def generate_svg(data, filename="github_contributions_enhanced.svg"):
         """)
     )
 
-    dwg.save()
+    svg_content = dwg.tostring()
+    with open(filename, "w", encoding="utf-8") as svg_file:
+        svg_file.write(svg_content)
 
 contributions = fetch_yearly_contributions(USERNAME, GITHUB_API_KEY)
 svg_filename = "github_contributions_enhanced.svg"
 generate_svg(contributions, filename=svg_filename)
-
 print(f"Enhanced SVG with legend and animation generated: {svg_filename}")
 print("Generated with Python \033[1;33m⟡\033[0m \033[1;32m𓆗\033[0m \033[1;33m⟡\033[0m by \033[1;34mPeme969\033[0m")
