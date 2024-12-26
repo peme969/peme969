@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install svgwrite
+          pip install requests
       - name: Run Python file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
