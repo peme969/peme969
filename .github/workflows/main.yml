@@ -23,7 +23,7 @@ jobs:
       - name: Run Python file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GRAPHQL: ${{ secrets.GRAPHQL }}
+          graphql: ${{ secrets.GRAPHQL }}
         run: |
           python update.py
 
