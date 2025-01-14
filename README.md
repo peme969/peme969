@@ -2,7 +2,7 @@
   <a href=''><img src="hello.svg" style="width: 100%;" alt="Click to see the source"></a>
 </div>
 <hr>
-<h3 align="center">A passionate junior developer from the USA 🇺🇸</h3>
+<h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/></p>
 
@@ -11,9 +11,34 @@
 - I play the piano :)
 - 🤯 **I am a jack of all trades and master of none 😁**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
-
  🙋‍♂️ Hope you have a great day! :D
 ## Featured Projects:
+<table>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=GitHub_F4F&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=GitHub_F4F&theme=tokyonight" alt="GitHub_F4F"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=youtube-release-notifier&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=youtube-release-notifier&theme=tokyonight" alt="youtube-release-notifier"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=peme969.github.io&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=peme969.github.io&theme=tokyonight" alt="peme969.github.io"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=ButtonPy&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=ButtonPy&theme=tokyonight" alt="ButtonPy"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Connect with me:
 
@@ -37,16 +62,17 @@ I am pretty much fluent in some and still learning others 😁
 
 ![e](https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/github_contributions_enhanced.svg)
 
-<div style='display:inline-block;'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" style='height:230px;'/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" width=540 height=230 style='margin-left: 10px;' alt="peme969" />
+<div style='display:inline-block;'>
+<img height=300  align="center"src='https://github-readme-stats.vercel.app/api?username=peme969&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" height=300 align=center />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" width=740 height=230 alt="peme969" />
 <br>
 <div style='display:flex;'>
-<img src='https://stats.quine.sh/peme969/github?theme=dark'/><img align='right'src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:330px;height:330px; 
-    margin-left: 100px;'/></div>
+<img height=330 src='https://stats.quine.sh/peme969/github?theme=dark'/><img align='right'src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:370px;height:370px;'/></div>
 </div>
 
 ___________
 
-If you have any questions or better advice, please [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=mrcoderpeme@gmail.com)
+If you have any questions or better advice, please [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=hello@peme969.is-a.dev)
 
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="peme969" />
