@@ -68,7 +68,7 @@ I am pretty much fluent in some and still learning others 😁
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" width=740 height=230 alt="peme969" />
 <br>
 <div style='display:flex;'>
-<img height=330 src='https://stats.quine.sh/peme969/github?theme=dark'/><img align='right'src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:370px;height:370px;'/></div>
+<img height=330 src='https://stats.quine.sh/peme969/github?theme=dark'/><img align='right'src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/octocat.png" alt="peme969" style='width:330px;height:330px;'/></div>
 </div>
 
 ___________
