@@ -16,24 +16,24 @@
 <table>
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=GitHub_F4F&theme=tokyonight">
+      <a href="https://github.com/peme969/GitHub_F4F">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=GitHub_F4F&theme=tokyonight" alt="GitHub_F4F"/>
       </a>
     </td>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=youtube-release-notifier&theme=tokyonight">
+      <a href="https://github.com/peme969/youtube-release-notifier">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=youtube-release-notifier&theme=tokyonight" alt="youtube-release-notifier"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=peme969.github.io&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=peme969.github.io&theme=tokyonight" alt="peme969.github.io"/>
+      <a href="https://github.com/peme969/AutoTyper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=autotyper&theme=tokyonight" alt="peme969.github.io"/>
       </a>
     </td>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=ButtonPy&theme=tokyonight">
+      <a href="https://github.com/peme969/ButtonPy">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=ButtonPy&theme=tokyonight" alt="ButtonPy"/>
       </a>
     </td>
