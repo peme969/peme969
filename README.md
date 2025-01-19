@@ -8,7 +8,6 @@
 
 ## Some fun facts about me ✨
 - I love to bike, hike, and fly FPV drones!
-- I play the piano :)
 - 🤯 **I am a jack of all trades and master of none 😁**
 - 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
  🙋‍♂️ Hope you have a great day! :D
