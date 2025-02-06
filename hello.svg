@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 600 300" width="32" height="32" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style='width:100%;height:100%>
       <style>
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
@@ -31,6 +31,8 @@
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
+          width:100%;
+        height:100%;
         }
 
         @media (prefers-reduced-motion) {
@@ -43,10 +45,7 @@
           }
         }
       </style>
-
-      <div class="container">
         <div class="hi">👋</div>
-      </div>
     </div>
   </foreignObject>
 </svg>
