@@ -1,4 +1,8 @@
-## Hi, I am Peme969 ![👋](https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif)
+<h1 style="display: inline;">Hi, I am Peme969</h1>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
+</picture>
 <hr>
 <h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
 <hr>
