@@ -1,10 +1,14 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 10px;">Hi, I am Peme969</h1>
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
-  </picture>
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><h1>Hi, I am Peme969</h1></td>
+    <td>
+      <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
+      </picture>
+    </td>
+  </tr>
+</table>
 <hr>
 <h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
 <hr>
