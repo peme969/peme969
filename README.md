@@ -1,4 +1,7 @@
-# Hi, I am Peme969 <a href='hello.svg'><img src="hello.svg" style="width: 32px;height:32px;margin:0; padding:0 0 0 0;" alt="Click to see the source"></a>
+# Hi, I am Peme969 <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
+</picture>
 
 <hr>
 <h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
