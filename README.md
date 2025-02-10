@@ -1,4 +1,4 @@
-<<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;"><h1>Hi, I am Peme969</h1></td>
     <td style="border: none;">
