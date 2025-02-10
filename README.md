@@ -1,7 +1,7 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><h1>Hi, I am Peme969</h1></td>
-    <td>
+    <td style="border: none;"><h1>Hi, I am Peme969</h1></td>
+    <td style="border: none;">
       <picture>
         <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
