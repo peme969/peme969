@@ -43,7 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="50" height="50" id="replit" alt="Replit" />
 </a>
 <a href="https://keybase.io/peme969" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/Keybase_logo_official.png" width="60" height="60" alt="Keybase" /></a>
-
+<a href="mailto:github@peme969.dev" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/mail.png" width="60" height="60" alt="Keybase" /></a>
 ## Skills :octocat:
 I am pretty much fluent in some and still learning others 😁
 <div style='display:inline-block;'>
