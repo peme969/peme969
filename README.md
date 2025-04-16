@@ -38,15 +38,12 @@
 </table>
 
 ## Connect with me:
-
-
 <a target="_blank" href="https://github.com/peme969"><img src="https://github.com/peme969/peme969/assets/136040410/0fc300f7-ab23-4376-85b4-c2e1961d5aa5" width="50" height="50"/></a>
 <a href="https://replit.com/@muskbot" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="50" height="50" id="replit" alt="Replit" />
 </a>
-<a href="https://keybase.io/peme969" target="_blank">
-<img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg' width="60" height="60" alt="Keybase"/>
-</a>
+<a href="https://keybase.io/peme969" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/Keybase_logo_official.png" width="60" height="60" alt="Keybase" /></a>
+
 ## Skills :octocat:
 I am pretty much fluent in some and still learning others 😁
 <div style='display:inline-block;'>
