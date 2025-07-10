@@ -1,0 +1,201 @@
+import time as __time__, os as __os__
+__timestamp__ = 0
+
+class audio:
+    def add_audio(filename):
+        new_time = __time__.time()
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} + {filename} + {new_time}pythonJavaScriptapilinebreak")
+        file.close()
+        return [new_time, filename]
+    def play_audio(audio):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} play {audio[0]}{audio[1]} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+    def pause_audio(audio):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} pause {audio[0]}{audio[1]} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+    def restart_audio(audio):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} restart {audio[0]}{audio[1]} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+    def download_audio(audio):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} download {audio[0]}{audio[1]} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+    def set_audio_speed(audio, speed:int=100):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} speed {audio[0]}{audio[1]} to {(speed / 100)} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+    def set_volume(audio, volume:int=100):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"audio {__timestamp__} volume {audio[0]}{audio[1]} to {(volume / 100)} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+
+class fullscreen:
+    def enter():
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"fullscreen enter {__timestamp__} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+    def exit():
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"fullscreen exit {__timestamp__} at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+
+class JS:
+    def run(code:str=""):
+        __clear__()
+        file = open("commands.txt", "a")
+        file.write(f"javascript {__timestamp__} pythonJSapi{code}pythonJSapi at {__time__.time()}pythonJavaScriptapilinebreak")
+        file.close()
+
+def __start__():
+    global __timestamp__
+    __timestamp__ = int(__time__.time() * 1000)
+    __clear__()
+    file = open("commands.txt", "a")
+    file.write(f"new {__timestamp__}pythonJavaScriptapilinebreak")
+    file.close()
+
+def __clear__():
+    try:
+        with open("commands.txt", "r") as file:
+            contents = file.read()
+            if contents != "":
+                contents_by_line = contents.split("pythonJavaScriptapilinebreak")
+                last_line = contents_by_line[len(contents_by_line) - 2]
+                if "pythonJSapi" not in last_line:
+                    if last_line.split(" ")[0] == "new":
+                        if int(__time__.time() * 1000) - int(float(last_line.split(" ")[1]) * 1000) > 1:  #one second has passed
+                            file = open("commands.txt", "a")
+                            file.write("")
+                            file.close()
+                    elif int(__time__.time() * 1000) - int(float(last_line.split(" ")[4]) * 1000) > 1:  #one second
+                        file = open("commands.txt", "a")
+                        file.write("")
+                        file.close()
+    except ValueError:
+        pass
+
+def __initialize__():
+    file = open("commands.txt", "a")
+    file.write("")
+    file.close()
+    if not __os__.path.exists("index.html"):
+        file = open("index.html", "w")
+        file.write("""\
+<html>
+  <head>
+    <title>CWHQ Terminal</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <style>
+      iframe {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        border: none;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe src="main.py"></iframe>
+    <script>
+      var programStartTime = Date.now() - 1000;
+      var timestampId = null;
+      
+      var executed = [];
+      var audios = {};
+            
+      function checkCommands() {
+        $.ajax({
+          url: "commands.txt",
+          success: finish
+        });
+      }
+      
+      function finish(response) {
+        for (var line of response.split("pythonJavaScriptapilinebreak")) {
+          if (line == "") {
+            continue;
+          }
+          if (line.startsWith("new ") && parseInt(line.split("new ")[1]) >= programStartTime && timestampId == null) {
+            timestampId = parseInt(line.split("new ")[1]);
+          } else if (line.startsWith("audio ")) {
+            line = line.split("audio ")[1];
+            if (line.includes(" + ")) {
+              var timestamp = parseInt(line.split(" + ")[0]);
+              if (timestamp == timestampId && !executed.includes(line)) {
+                executed.push(line);
+                var filename = (line.split(" + ")[1]);
+                audios[line.split(" + ")[2] + filename] = new Audio(filename);
+              }
+            } else if (line.includes(" play ") && line.startsWith(timestampId) && !executed.includes(line)) {
+              executed.push(line);
+              var name = (line.split(" play "))[1].split(" at ")[0];
+              audios[name].play();
+            } else if (line.includes(" pause ") && line.startsWith(timestampId) && !executed.includes(line)) {
+              executed.push(line);
+              var myfile = (line.split(" pause "))[1].split(" at ")[0];
+              audios[myfile].pause();
+            } else if (line.includes(" restart ") && line.startsWith(timestampId) && !executed.includes(line)) {
+              executed.push(line);
+              var thefile = (line.split(" restart "))[1].split(" at ")[0];
+              audios[thefile].currentTime = 0;
+              audios[thefile].play();
+            } else if (line.includes(" download ") && line.startsWith(timestampId) && !executed.includes(line)) {
+              executed.push(line);
+              var downloadFile = (line.split(" download "))[1].split(" at ")[0];
+              document.body.innerHTML += `<a href="${audios[downloadFile].src}" id="download" download>Click</a>`;
+              var download = document.getElementById("download");
+              download.click();
+              download.remove();
+            } else if (line.includes(" speed ") && line.startsWith(timestampId) && !executed.includes(line)) {
+              executed.push(line);
+              var appfile = (line.split(" speed "))[1].split(" to ")[0];
+              var speed = parseFloat(line.split(" speed ")[1].split(" to ")[1].split(" at ")[0]);
+              audios[appfile].playbackRate = speed;
+            } else if (line.includes(" volume ") && line.startsWith(timestampId) && !executed.includes(line)) {
+              executed.push(line);
+              var stuff = (line.split(" volume "))[1].split(" to ")[0];
+              var volume = parseFloat(line.split(" volume ")[1].split(" to ")[1].split(" at ")[0]);
+              audios[stuff].volume = volume;
+            }
+          } else if (line.startsWith("fullscreen enter ") && !executed.includes(line)) {
+            if (line.split(" ")[2] == timestampId) {
+              document.body.requestFullscreen();
+              executed.push(line);
+            }
+          } else if (line.startsWith("fullscreen exit ") && !executed.includes(line)) {
+            if (line.split(" ")[2] == timestampId) {
+              document.exitFullscreen();
+              executed.push(line);
+            }
+          } else if (line.startsWith("javascript") && !executed.includes(line)) {
+            if (line.split(" ")[1] == timestampId) {
+              eval(line.split("pythonJSapi")[1]);
+              executed.push(line)
+            }
+          }
+        }
+      }
+      
+      setInterval(checkCommands, 100);
+    </script>
+  </body>
+</html>""")
+        file.close()
+    __start__()
+
+__initialize__()
