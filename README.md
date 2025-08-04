@@ -27,12 +27,48 @@
   <tr>
     <td>
       <a href="https://github.com/peme969/AutoTyper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=autotyper&theme=tokyonight" alt="peme969.github.io"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=autotyper&theme=tokyonight" alt="autotyper"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/peme969/ButtonPy">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=ButtonPy&theme=tokyonight" alt="ButtonPy"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/peme969/url-shortener">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=url-shortener&theme=tokyonight" alt="url-shortener"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/peme969/pastebin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=pastebin&theme=tokyonight" alt="pastebin"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/peme969/ScreenShot-Tool">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=ScreenShot-Tool&theme=tokyonight" alt="ScreenShot-Tool"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/peme969/website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=website&theme=tokyonight" alt="website"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/peme969/avatar-editor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=avatar-editor&theme=tokyonight" alt="avatar-editor"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/peme969/.fyi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peme969&repo=.fyi&theme=tokyonight" alt=".fyi"/>
       </a>
     </td>
   </tr>
