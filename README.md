@@ -88,7 +88,7 @@ I am pretty much fluent in some and still learning others 😁
 <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241212T170538Z&X-Amz-Expires=300&X-Amz-Signature=452e2a869012798e25339422902e1bc118fa2775fbd4903f5b5281bd83061890&X-Amz-SignedHeaders=host' style='width:64px;height:64px;'/>
 <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' style='width:64px;height:64px;'/>
 <img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' style='width:64px;height:64px;'/>
-<img src='https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif' style='    width: 107px;
+<img src='https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif' style='width: 107px;
     height: 56px;
     transform: rotate(1deg);'/>
 </div>
