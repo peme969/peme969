@@ -75,12 +75,12 @@
 </table>
 
 ## Connect with me:
-<a target="_blank" href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fg8jwO18SopGJuvM3R_bJvqo2ti0roJkY%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAYCoMstD4dvDkWriGbHBgAztUIgIeDupXgh81TL7lYnY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion"><img src="https://upload.wikimedia.org/wikipedia/en/8/81/SimpleX_Logo.png" width="75" height="75"/></a>
-<a href="https://replit.com/@muskbot" target="_blank">
+<a target="_blank" alt="SimpleX Chat" href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fg8jwO18SopGJuvM3R_bJvqo2ti0roJkY%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAYCoMstD4dvDkWriGbHBgAztUIgIeDupXgh81TL7lYnY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion"><img src="https://upload.wikimedia.org/wikipedia/en/8/81/SimpleX_Logo.png" width="75" height="75" alt="SimpleX Chat"/></a>
+<a href="https://replit.com/@muskbot" alt="Replit" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="75" height="75" id="replit" alt="Replit" />
 </a>
-<a href="https://keybase.io/peme969" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/Keybase_logo_official.png" width="75" height="75" alt="Keybase" /></a>
-<a href="mailto:github@peme969.dev" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/mail.png" width="75" height="75" alt="Keybase" /></a>
+<a href="https://keybase.io/peme969" alt="Keybase" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/Keybase_logo_official.png" width="75" height="75" alt="Keybase" /></a>
+<a href="mailto:github@peme969.dev" alt="Email" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/mail.png" width="75" height="75" alt="Email" /></a>
 ## Skills :octocat:
 I am pretty much fluent in some and still learning others 😁
 <div style='display:inline-block;'>
