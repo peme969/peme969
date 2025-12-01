@@ -389,35 +389,20 @@ def build_svg(calendar: dict, year: int, username: str) -> str:
     return svg
 
 def main():
-    if len(sys.argv) < 2:
-        print(
-            "Usage: python github_contributions_svg_text_anim.py <github_username> [year]"
-        )
-        sys.exit(1)
-
-    login = sys.argv[1]
-    if len(sys.argv) >= 3:
-        year = int(sys.argv[2])
-    else:
-        year = dt.datetime.now().year
+    login = "peme969"
+    year = dt.datetime.now().year
     # get os environment variable called GTHUB_TOKEN
     token = os.environ(GTHUB_TOKEN)
     if not token:
         print("Error: please set the GITHUB_TOKEN environment variable.")
         sys.exit(1)
-
     print(f"Fetching contributions for {login} in {year}...")
     calendar = fetch_contributions(login, year, token)
-
     print("Building SVG...")
     svg = build_svg(calendar, year, login)
-
     filename = f"{login}_contributions_{year}.svg"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(svg)
-
-    print(f"Done. Wrote {filename}")
-
-
+    print(f"Done. Wrote SVG to {filename}")
 if __name__ == "__main__":
     main()
