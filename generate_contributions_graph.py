@@ -400,7 +400,7 @@ def main():
     calendar = fetch_contributions(login, year, token)
     print("Building SVG...")
     svg = build_svg(calendar, year, login)
-    filename = f"{login}_contributions_{year}.svg"
+    filename = f"{login}_contributions.svg"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"Done. Wrote SVG to {filename}")
