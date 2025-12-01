@@ -3,7 +3,10 @@ name: Update Github Contributions Graph ✨
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 5 * * *' # every 12 hours 
+    - cron: '0 5 * * *' # every day at 05:00 UTC
+
+permissions:
+  contents: write   # allow this workflow to push commits
 
 jobs:
   run-python:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -20,7 +25,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install svgwrite
           pip install requests
 
       - name: Run Python file
@@ -28,19 +32,21 @@ jobs:
           GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
           python generate_contributions_graph.py
-            - name: Commit and push updated SVG
+
+      - name: Commit and push updated SVG
         env:
           GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Make sure we’re on the default branch (adjust if yours is not `main`)
+          # Ensure we are on the default branch (change if not 'main')
           git checkout main
 
-          git add peme969_contributions.svg
+          # Add the generated SVG
+          git add peme969_contributions.svg || echo "No SVG file to add"
 
-          # If there are no changes (file identical), skip committing
+          # If no changes staged, exit gracefully
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
@@ -48,4 +54,3 @@ jobs:
 
           git commit -m "Update contributions SVG"
           git push
-
