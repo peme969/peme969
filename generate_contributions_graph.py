@@ -392,7 +392,7 @@ def main():
     login = "peme969"
     year = dt.datetime.now().year
     # get os environment variable called GTHUB_TOKEN
-    token = os.environ(GTHUB_TOKEN)
+    token = os.environ.get("GTHUB_TOKEN")
     if not token:
         print("Error: please set the GITHUB_TOKEN environment variable.")
         sys.exit(1)
