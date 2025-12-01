@@ -3,7 +3,7 @@ name: Update Github Contributions Graph ✨
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours 
+    - cron: '0 5 * * *' # every 12 hours 
 
 jobs:
   run-python:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -20,10 +20,11 @@ jobs:
         run: |
           pip install svgwrite
           pip install requests
+          pip install textwrap
+          pip install datetime
       - name: Run Python file
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          graphql: ${{ secrets.GRAPHQL }}
+          GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
-          python update.py
+          python generatre_contributions_graph.py
 
