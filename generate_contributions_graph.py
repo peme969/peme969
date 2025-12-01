@@ -403,7 +403,7 @@ def main():
     filename = f"{login}_contributions.svg"
     with open(filename, "w", encoding="utf-8") as f:
        f.write(svg)
-     print(f"Done. Wrote SVG to {filename}")
+    print(f"Done. Wrote SVG to {filename}")
 
 if __name__ == "__main__":
     main()
