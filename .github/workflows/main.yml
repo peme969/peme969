@@ -26,5 +26,5 @@ jobs:
         env:
           GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
-          python generatre_contributions_graph.py
+          python generate_contributions_graph.py
 
