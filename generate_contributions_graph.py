@@ -400,8 +400,8 @@ def main():
         year = int(sys.argv[2])
     else:
         year = dt.datetime.now().year
-    # get os environment variable called GITHUB_TOKEN
-    token = os.environ(GITHUB_TOKEN)
+    # get os environment variable called GTHUB_TOKEN
+    token = os.environ(GTHUB_TOKEN)
     if not token:
         print("Error: please set the GITHUB_TOKEN environment variable.")
         sys.exit(1)
