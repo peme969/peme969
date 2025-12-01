@@ -28,3 +28,24 @@ jobs:
           GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
           python generate_contributions_graph.py
+            - name: Commit and push updated SVG
+        env:
+          GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Make sure we’re on the default branch (adjust if yours is not `main`)
+          git checkout main
+
+          git add peme969_contributions.svg
+
+          # If there are no changes (file identical), skip committing
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update contributions SVG"
+          git push
+
