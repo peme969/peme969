@@ -12,19 +12,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.12'
+
       - name: Install dependencies
         run: |
           pip install svgwrite
           pip install requests
-          pip install textwrap
-          pip install datetime
+
       - name: Run Python file
         env:
           GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
-          python generate_contributions_graph.py
-
+          python generatre_contributions_graph.py
