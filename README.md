@@ -1,7 +1,7 @@
 # Hi, I am Peme969 ![👋](wave.png)
 <hr>
 <h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
-<img style="text-align=center" src="https://github-profile-trophy.vercel.app/?username=peme969&theme=tokyonight&rank=-C&no-frame=true" alt="streak stats"/>
+<img style="text-align=center" src="https://github-profile-trophy-roan-three.vercel.app/?username=peme969&theme=tokyonight&rank=-C&no-frame=true" alt="streak stats"/>
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/></p>
 
