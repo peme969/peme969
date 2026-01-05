@@ -37,8 +37,8 @@ jobs:
         env:
           GTHUB_TOKEN: ${{ secrets.GTHUB_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Peme969 [dev]"
+          git config --global user.email "github@peme969.dev"
 
           # Ensure we are on the default branch (change if not 'main')
           git checkout main
