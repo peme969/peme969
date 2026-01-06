@@ -1,9 +1,13 @@
-# Hi, I am Peme969 ![👋](wave.png)
-<hr>
-<h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
+<div align=center style='inline-block'>
+  <img width=852px align=center src="https://github-widgetbox.vercel.app/api/profile?username=peme969&data=followers,repositories,stars,commits&theme=nautilus"/>
+</div>
+<h1 align="center">Hi, I am Peme969 <img width=52px src="wave.png"/></h2>
+  <h3 align="center">A passionate Junior developer from the USA 🇺🇸</h3>
 <img style="text-align=center" src="https://peme969-profile-trophy.vercel.app/?username=peme969&theme=tokyonight&rank=-C&no-frame=true" alt="streak stats"/>
 <hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/></p>
+<div align=center style='inline-block'>
+  <img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/>
+</div>
 
 ## Some fun facts about me ✨
 - I love to bike, hike, and fly FPV drones!
