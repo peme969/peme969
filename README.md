@@ -84,10 +84,10 @@ I am pretty much fluent in some and still learning others 😁
 
 ![e](./peme969_contributions_20260106_160851.svg)
 
-<div style='display:inline-block;'>
-<img height=300  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>
-  <img src="https://github-stats.peme969.dev/api/top-langs/?username=peme969&theme=blue-green" alt="peme969" height=300 align=center />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" width=740 height=230 alt="peme969" />
+<div style='display:inline-block;' align=center>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" width=470 height=430 alt="peme969" /><img height=260  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>
+</div>
+  
 
 ___________
 
