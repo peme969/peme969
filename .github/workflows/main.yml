@@ -52,5 +52,8 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update contributions SVG"
+          git commit -m "Update contributions SVG
+
+Co-authored-by: CodeCompanionX <bot@peme969.dev>"
+
           git push
