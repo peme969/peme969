@@ -8,13 +8,6 @@
 <div align=center style='inline-block'>
   <img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/>
 </div>
-
-## Some fun facts about me ✨
-- I love to bike, hike, and fly FPV drones!
-- 🤯 **I am a jack of all trades and master of none 😁**
-- 🗯 🌟 "If it doesn't work, I just reset" ~Jann Mardenborough
-  
- 🙋‍♂️ Hope you have a great day! :D
 ## Featured Projects:
 <table>
   <tr>
