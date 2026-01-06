@@ -38,7 +38,10 @@ jobs:
           TS=$(date -u +"%Y%m%d_%H%M%S")
           NEW_FILE="peme969_contributions_${TS}.svg"
 
-          # Delete ALL previous versioned contribution graphs
+          # Save NEW_FILE for later steps
+          echo "NEW_FILE=$NEW_FILE" >> $GITHUB_ENV
+
+          # Delete ALL previous contribution graphs
           rm -f peme969_contributions_*.svg
 
           # Rename newly generated SVG
@@ -49,6 +52,7 @@ jobs:
 
           echo "New SVG filename: $NEW_FILE"
 
+
       - name: Commit and push updated SVG
         run: |
           git config --global user.name "Peme969"
@@ -57,7 +61,7 @@ jobs:
           git checkout main
 
           # Add updated README + new SVG
-          git add README.md "$NEW_FILE" || echo "Nothing to add"
+          git add README.md "$NEW_FILE"
 
           # Stage deletions too
           git add -u
@@ -70,3 +74,4 @@ jobs:
 
           git commit -m $'Update contributions SVG\n\nCo-authored-by: CodeCompanionX <bot@peme969.dev>'
           git push
+
