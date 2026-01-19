@@ -52,8 +52,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/peme969/website">
-        <img src="https://github-stats.peme969.dev/api/pin/?username=peme969&repo=website&theme=tokyonight" alt="website"/>
+      <a href="https://github.com/peme969/github-contributions-graphs">
+        <img src="https://github-stats.peme969.dev/api/pin/?username=peme969&repo=github-contributions-graph&theme=tokyonight" alt="website"/>
       </a>
     </td>
   </tr>
