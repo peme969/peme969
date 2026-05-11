@@ -80,20 +80,92 @@
 </table>
 
 ## Connect with me:
-<a target="_blank" alt="SimpleX Chat" href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fg8jwO18SopGJuvM3R_bJvqo2ti0roJkY%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAYCoMstD4dvDkWriGbHBgAztUIgIeDupXgh81TL7lYnY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion"><img src="https://upload.wikimedia.org/wikipedia/en/8/81/SimpleX_Logo.png" width="75" height="75" alt="SimpleX Chat"/></a>
-<a href="https://replit.com/@muskbot" alt="Replit" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="75" height="75" id="replit" alt="Replit" />
-</a>
-<a href="https://keybase.io/peme969" alt="Keybase" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/Keybase_logo_official.png" width="75" height="75" alt="Keybase" /></a>
-<a href="mailto:github@peme969.dev" alt="Email" target="_blank"><img src="https://raw.githubusercontent.com/peme969/peme969/refs/heads/main/mail.png" width="75" height="75" alt="Email" /></a>
+
+<table align="center" border="0" style="border: none;padding: 5px;">
+  <tr>
+    <td border="none" style="border: none;padding: 5px;">
+      <a target="_blank" href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fg8jwO18SopGJuvM3R_bJvqo2ti0roJkY%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAYCoMstD4dvDkWriGbHBgAztUIgIeDupXgh81TL7lYnY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion">
+        <img src="https://upload.wikimedia.org/wikipedia/en/8/81/SimpleX_Logo.png" width="75" height="75" alt="SimpleX Chat"/>
+      </a>
+    </td>
+    <td border="0" style="border: none;padding: 5px;">
+      <a target="_blank" href="https://replit.com/@muskbot">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="75" height="75" alt="Replit"/>
+      </a>
+    </td>
+    <td border="0" style="border: none;padding: 5px;">
+      <a target="_blank" href="https://keybase.io/peme969">
+        <img src="https://raw.githubusercontent.com/peme969/peme969/main/Keybase_logo_official.png" width="75" height="75" alt="Keybase"/>
+      </a>
+    </td>
+    <td border="0" style="border: none;padding: 5px;">
+      <a target="_blank" href="mailto:github@peme969.dev">
+        <img src="https://raw.githubusercontent.com/peme969/peme969/main/mail.png" width="75" height="75" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Languages and Tools :octocat:
 I am pretty much fluent in some and still learning others 😁
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hugo" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+
+<table align="left" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="bash"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css3"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="firebase"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="flask"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="go"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="graphql"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html5"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40" alt="hugo"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="javascript"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://cdn.simpleicons.org/ollama" width="40" height="40" alt="ollama"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="python"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" alt="ruby"/>
+    </td>
+    <td style="border: none; padding: 6px;">
+      <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="40" height="40" alt="zapier"/>
+    </td>
+  </tr>
+</table>
 
 ![e](https://github-contribution-graph-generator.vercel.app/graph/peme969)
 
 <div style='display:inline-block;' align=center>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" width=670 height=430 alt="peme969" /><img height=360  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" alt="peme969" /><img height=360  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>
 </div>
   
 
