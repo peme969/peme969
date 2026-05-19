@@ -92,7 +92,7 @@
     </td>
     <td border="0" style="border: none;padding: 5px;">
       <a target="_blank" href="https://replit.com/@muskbot">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="75" height="75" alt="Replit"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/120px-New_Replit_Logo.svg.png?_=20221110063937" width="75" height="75" alt="Replit"/>
       </a>
     </td>
     <td border="0" style="border: none;padding: 5px;">
