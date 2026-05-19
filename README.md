@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=peme969&label=Profile%20views&color=0e75b6&style=flat" alt="peme969"/>
 </div>
 
-<div style='display:inline-block;' align=center>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" alt="peme969" /><!--<img height=360  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>-->
-</div>
+![e](https://github-contribution-graph-generator.vercel.app/graph/peme969)
 
 ## Featured Projects:
 
@@ -166,7 +164,9 @@ I am pretty much fluent in some and still learning others 😁
   </tr>
 </table>
 
-![e](https://github-contribution-graph-generator.vercel.app/graph/peme969)
+<div style='display:inline-block;' align=center>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" alt="peme969" /><!--<img height=360  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>-->
+</div>
 
 
   
