@@ -9,7 +9,7 @@
 </div>
 <details>
 <summary><h2>GitHub Metrics</h2></summary>
-  <img style="text-align=center" src="https://peme969-profile-trophy.vercel.app/?username=peme969&theme=tokyonight&rank=-C&no-frame=true" alt="streak stats"/>
+  <img style="text-align=center" src="https://peme969-profile-trophy.vercel.app/?username=peme969&theme=tokyonight&rank=-C,-?&no-frame=true" alt="streak stats"/>
 <div style='display:inline-block;' align=center>
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=peme969&count_private=true&theme=blue-green&border_radius=10" alt="peme969" /><!--<img height=360  align="center"src='https://github-stats.peme969.dev/api?username=peme969&show=reviews,prs_merged,prs_merged_percentage&count_private=true&theme=blue-green&border_radius=10'/>-->
 </div>
@@ -173,6 +173,6 @@ I am pretty much fluent in some and still learning others 😁
 </table>
 ___________
 
-If you have any questions or better advice, please [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=me@peme969.dev)
+If you have any questions or better advice, please [email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=github@peme969.dev)
 
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="peme969" />
